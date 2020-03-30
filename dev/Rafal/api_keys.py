@@ -1,1 +1,1 @@
-g_key = "KEY"
+g_key = "GOOGLE_KEY_HERE"
